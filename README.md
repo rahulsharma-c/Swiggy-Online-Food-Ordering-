@@ -1,4 +1,4 @@
-# FoodHunt
+# Foody
 
 A food delivery application made using React and Swiggy's API.
 
@@ -16,7 +16,6 @@ A food delivery application made using React and Swiggy's API.
 - Get restaurants by current location
 - Add to cart
 - Shimmer UI
--
 
 ## How to use
 
