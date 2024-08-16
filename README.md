@@ -2,7 +2,6 @@
 
 A food delivery application made using React and Swiggy's API.
 
-This project was built as a part of the course Namaste React by Akshay Saini.
 
 ## Tech Stack
 
@@ -23,9 +22,7 @@ This project was built as a part of the course Namaste React by Akshay Saini.
 
 1. Clone the repo
 
-```bash
-git clone https://github.com/DineshRout779/FoodHunt
-```
+https://github.com/rahulsharma-c/Swiggy-Online-Food-Ordering-.git
 
 2. Install dependencies
 
